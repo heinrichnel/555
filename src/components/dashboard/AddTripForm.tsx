@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Trip } from '../../types';
 import Button from '../ui/Button';
